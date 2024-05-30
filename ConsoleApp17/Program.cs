@@ -49,7 +49,6 @@ namespace ConsoleApp17
             Console.WriteLine($"{CommandExit} - выход из обменного терминала");
             Console.Write("Ваш выбор: ");
             
-
             while (isProgress)
             {
                 userSelection = Console.ReadLine();
